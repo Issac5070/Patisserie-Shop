@@ -1,0 +1,32 @@
+.nav-link {
+    font-family:"Quintessential";
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.card-title{
+    font-family:"Pacifico";
+    font-size: 1.8rem;
+    color: rgb(255, 0, 157);
+}
+.card-text{
+    font-family:"Quintessential";
+    color: #777777;
+}
+.price{
+    font-family:"Lobster";
+    font-size: 1.25rem;
+    color: rgb(255, 0, 157);
+}
+.btn-outline-primary{
+    color: rgb(255, 0, 157);
+    border-color: rgb(255, 0, 157);
+}
+.btn-outline-primary:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 157);
+}
+.add-btn{
+    display: flex;
+    justify-content: end;
+    font-family: "Lobster";
+}

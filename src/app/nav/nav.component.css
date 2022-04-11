@@ -1,0 +1,15 @@
+.bg-dark {
+    background-color: rgb(255, 0, 156)!important;
+}
+
+.navbar-brand {
+    font-family:"Pacifico";
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+
+.nav-link {
+    font-family:"Quintessential";
+    font-weight: bold;
+    font-size: 1.25rem;
+}

@@ -1,0 +1,38 @@
+input.ng-invalid.ng-touched{
+    border:1px solid red;
+}
+.text-center{
+    font-family: "Pacifico";
+    color: rgb(255, 0, 157);
+}
+.card{
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    background-color:aliceblue;
+}
+.form-label{
+    font-family: "Lobster";
+    color: rgb(255, 0, 157);
+}
+.form-text{
+    font-family: "Quintessential";
+    color: rgb(255, 0, 157);
+    font-weight: 400;
+}
+.btn{
+    font-family: "Lobster";
+}
+.btn-outline-primary{
+    color: rgb(255, 0, 157);
+    border-color: rgb(255, 0, 157);
+}
+.btn-outline-primary:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 157);
+}

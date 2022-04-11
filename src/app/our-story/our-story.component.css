@@ -1,0 +1,16 @@
+.Our-Story-image{
+    display: flex;
+    justify-content: center;
+    height: 30rem;
+}
+
+.Our-Story-text{
+    color:rgb(255,0,157) ;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font-family:"Comforter";
+    font-size: 1.75rem;
+    font-weight:bolder;
+}
